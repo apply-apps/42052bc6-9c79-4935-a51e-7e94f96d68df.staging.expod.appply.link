@@ -1,3 +1,4 @@
+```js
 // App.js
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, View, Text } from 'react-native';
@@ -90,3 +91,4 @@ const styles = StyleSheet.create({
 
 export default App;
 // End of App.js
+```
